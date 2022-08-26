@@ -1,4 +1,5 @@
-let nome = "Ludmila Godoy"
-let email = "luds.godoy@gmail.com"
-let futuro = "programadora"
-let lugar = "Kansas"
+let nome 
+let email
+let futuro
+let idade
+let lugar
